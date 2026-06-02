@@ -332,8 +332,6 @@ Modern mobile commerce experience engineered for intelligent shopping workflows,
 
 ---
 
----
-
 ## Business Problem
 
 Traditional ecommerce platforms often struggle with:
