@@ -14,6 +14,16 @@ Enterprise-grade AI-powered ecommerce platform designed for intelligent customer
 
 ---
 
+<p align="center">
+  <img 
+    src="./assets/branding/multi-tenant-ai-ecommerce-banner.png"
+    alt="School Management System"
+    width="100%"
+  />
+</p>
+
+---
+
 ## Platform Vision
 
 SHIVAM ITCS introduces a next-generation multi-tenant AI commerce ecosystem engineered for intelligent customer engagement, conversational shopping experiences, and scalable storefront operations.
