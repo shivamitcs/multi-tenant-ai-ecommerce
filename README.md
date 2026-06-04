@@ -198,7 +198,7 @@ The mobile ecosystem is engineered for high-performance commerce interactions, r
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 <p align="center">
   <img 
