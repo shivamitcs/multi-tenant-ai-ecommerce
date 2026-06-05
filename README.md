@@ -201,11 +201,7 @@ The mobile ecosystem is engineered for high-performance commerce interactions, r
 ## System Architecture
 
 <p align="center">
-  <img 
-    src="./assets/architecture/Ecom-system-architecture.png" 
-    width="100%" 
-    alt="Enterprise System Architecture"
-  />
+  <img src="./assets/architecture/Ecom-system-architecture.png" width="100%"  alt="Enterprise System Architecture"/>
 </p>
 
 Scalable multi-tenant architecture engineered for AI-powered workflows, modular commerce services, enterprise integrations, and cloud-native infrastructure.
@@ -265,7 +261,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 📊 Merchant Analytics Dashboard
 
 <p align="center">
-  <img src="./assets/screenshots/web/Dashboard2.png" width="100%" alt="Merchant Dashboard"/>
+  <img src="./assets/screenshots/web/Admin-dashboard.png" width="100%" alt="Merchant Dashboard"/>
 </p>
 
 ---
