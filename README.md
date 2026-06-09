@@ -51,6 +51,19 @@ Designed with a product-engineering mindset, the ecosystem focuses on scalabilit
 
 ---
 
+## Commerce Capabilities
+
+| Capability | Description |
+|------------|-------------|
+| AI Assistant | Conversational shopping support |
+| Voice Commerce | Voice-based product discovery |
+| Image Search | Visual product recognition |
+| Multi-Tenant | Independent storefront isolation |
+| Mobile Commerce | Mobile-first shopping experience |
+| Analytics | Merchant performance visibility |
+
+---
+
 ## AI Commerce Infrastructure
 
 ### Intelligent AI Shopping Assistant
@@ -154,10 +167,13 @@ The mobile ecosystem is engineered for high-performance commerce interactions, r
 
 ## Security Architecture
 
-- Tenant-level isolation
+- Tenant-level storefront isolation
 - Secure authentication workflows
+- Role-based access control (RBAC)
 - Protected commerce APIs
-- Role-based dashboard access
+- Secure checkout workflows
+- Environment-based configuration
+- Session security controls
 
 ---
 
@@ -195,6 +211,30 @@ The mobile ecosystem is engineered for high-performance commerce interactions, r
 - Priority Hints
 - Optimized asset delivery
 - High-performance rendering pipelines
+
+---
+
+## AI Capabilities
+
+- Conversational shopping assistant
+- Personalized product recommendations
+- Voice-powered commerce interactions
+- Image-based product discovery
+- Context-aware shopping assistance
+- Intelligent cart workflows
+
+---
+
+## Architecture Highlights
+
+- Multi-tenant commerce architecture
+- AI-powered shopping assistant
+- Conversational commerce workflows
+- Voice-enabled product discovery
+- Image-based search infrastructure
+- Tenant-level storefront isolation
+- Mobile and web commerce ecosystem
+- Scalable enterprise storefront platform
 
 ---
 
@@ -338,6 +378,14 @@ Modern mobile commerce experience engineered for intelligent shopping workflows,
 
 ---
 
+## Key Use Cases
+
+- Multi-vendor ecommerce platforms
+- AI-powered online marketplaces
+- Conversational commerce
+
+---
+
 ## Business Problem
 
 Traditional ecommerce platforms often struggle with:
@@ -367,6 +415,18 @@ The platform enables:
 - mobile-first commerce experiences
 
 The ecosystem is designed to deliver AI-assisted commerce experiences, personalized customer engagement, and scalable storefront operations.
+
+---
+
+## Business Outcomes
+
+- Improved customer engagement
+- Higher product discoverability
+- Enhanced shopping personalization
+- Faster customer decision-making
+- Increased operational scalability
+- Improved merchant productivity
+- AI-driven commerce experiences
 
 ---
 
@@ -465,6 +525,33 @@ Designed with a product-engineering mindset, the system focuses on scalability, 
 Modern ecommerce systems are transactional but lack intelligent customer interaction.
 
 This platform was designed to combine conversational AI, personalized commerce experiences, and scalable multi-tenant infrastructure into a unified AI-first commerce ecosystem.
+
+---
+
+## Repository Topics
+
+```txt
+ai-commerce
+multi-tenant
+ecommerce-platform
+conversational-commerce
+voice-commerce
+image-search
+nextjs
+react
+shadcn-ui
+ai-shopping-assistant
+product-recommendations
+enterprise-saas
+tenant-management
+mobile-commerce
+customer-engagement
+commerce-analytics
+digital-commerce
+agentic-ai
+marketplace-platform
+intelligent-commerce
+```
 
 ---
 
