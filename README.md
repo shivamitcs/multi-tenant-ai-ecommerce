@@ -15,11 +15,7 @@ Enterprise-grade AI-powered ecommerce platform designed for intelligent customer
 ---
 
 <p align="center">
-  <img 
-    src="./assets/branding/multi-tenant-ai-ecommerce-banner.png"
-    alt="School Management System"
-    width="100%"
-  />
+  <img src="./assets/branding/multi-tenant-ai-ecommerce-banner.png" alt="School Management System" width="100%"/>
 </p>
 
 ---
@@ -255,8 +251,6 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ---
 
 # 🌐 Web Platform Screenshots
-
----
 
 ### 🤖 AI Shopping Assistant
 
