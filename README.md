@@ -20,7 +20,7 @@ Enterprise-grade AI-powered ecommerce platform designed for intelligent customer
 
 ---
 
-## Platform Vision
+## Platform Vision 
 
 SHIVAM ITCS introduces a next-generation multi-tenant AI commerce ecosystem engineered for intelligent customer engagement, conversational shopping experiences, and scalable storefront operations.
 
