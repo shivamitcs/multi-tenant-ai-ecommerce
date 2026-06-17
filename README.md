@@ -8,7 +8,7 @@
 ![UI](https://img.shields.io/badge/UI-shadcn%2Fui-success)
 ![Performance](https://img.shields.io/badge/Performance-Optimized-orange)
 ![Deployment](https://img.shields.io/badge/Deployment-Nginx-green)
-![Status](https://img.shields.io/badge/Status-Production-success)
+![Status](https://img.shields.io/badge/Status-Production-success) 
 
 Enterprise-grade AI-powered ecommerce platform designed for intelligent customer engagement, conversational shopping experiences, AI-assisted commerce workflows, and scalable multi-tenant storefront operations.
 
