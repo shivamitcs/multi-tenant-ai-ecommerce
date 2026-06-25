@@ -5,7 +5,7 @@
 ![AI](https://img.shields.io/badge/AI-Agentic%20Commerce-purple)
 ![Architecture](https://img.shields.io/badge/Architecture-Multi%20Tenant-black)
 ![Mobile](https://img.shields.io/badge/Mobile-AI%20Commerce-success)
-![UI](https://img.shields.io/badge/UI-shadcn%2Fui-success)
+![UI](https://img.shields.io/badge/UI-shadcn%2Fui-success) 
 ![Performance](https://img.shields.io/badge/Performance-Optimized-orange)
 ![Deployment](https://img.shields.io/badge/Deployment-Nginx-green)
 ![Status](https://img.shields.io/badge/Status-Production-success) 
