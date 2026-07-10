@@ -237,7 +237,7 @@ The mobile ecosystem is engineered for high-performance commerce interactions, r
 ## System Architecture
 
 <p align="center">
-  <img src="./assets/architecture/Ecom-system-architecture.png" width="100%"  alt="Enterprise System Architecture"/>
+  <img src="./assets/architecture/Ecom-system-architecture.png" width="100%"  alt="Enterprise System Architecture" />
 </p>
 
 Scalable multi-tenant architecture engineered for AI-powered workflows, modular commerce services, enterprise integrations, and cloud-native infrastructure.
@@ -255,7 +255,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 🤖 AI Shopping Assistant
 
 <p align="center">
-  <img src="./assets/screenshots/web/AI Assistant.png" width="100%" alt="AI Shopping Assistant"/>
+  <img src="./assets/screenshots/web/AI Assistant.png" width="100%" alt="AI Shopping Assistant" />
 </p>
 
 ---
@@ -263,7 +263,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 🏬 Premium Storefront
 
 <p align="center">
-  <img src="./assets/screenshots/web/Store-3.png" width="100%" alt="Premium Storefront"/>
+  <img src="./assets/screenshots/web/Store-3.png" width="100%" alt="Premium Storefront" />
 </p>
 
 ---
@@ -271,7 +271,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 🛍️ Product Discovery Experience
 
 <p align="center">
-  <img src="./assets/screenshots/web/Products.png" width="100%" alt="Product Discovery"/>
+  <img src="./assets/screenshots/web/Products.png" width="100%" alt="Product Discovery" />
 </p>
 
 ---
@@ -279,7 +279,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 📦 Product Details & Recommendations
 
 <p align="center">
-  <img src="./assets/screenshots/web/Product_details.png" width="100%" alt="Product Details"/>
+  <img src="./assets/screenshots/web/Product_details.png" width="100%" alt="Product Details" />
 </p>
 
 ---
@@ -287,7 +287,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 🛒 Shopping Cart Experience
 
 <p align="center">
-  <img src="./assets/screenshots/web/Cart_Items.png" width="100%" alt="Shopping Cart"/>
+  <img src="./assets/screenshots/web/Cart_Items.png" width="100%" alt="Shopping Cart" />
 </p>
 
 ---
@@ -295,7 +295,7 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 ### 📊 Merchant Analytics Dashboard
 
 <p align="center">
-  <img src="./assets/screenshots/web/Admin-dashboard.png" width="100%" alt="Merchant Dashboard"/>
+  <img src="./assets/screenshots/web/Admin-dashboard.png" width="100%" alt="Merchant Dashboard" />
 </p>
 
 ---
@@ -315,13 +315,13 @@ Modern mobile commerce experience engineered for intelligent shopping workflows,
 </td>
 
 <td align="center">
-<img src="./assets/screenshots/mobile/Products.PNG" width="250" alt="Explore Products"/>
+<img src="./assets/screenshots/mobile/Products.PNG" width="250" alt="Explore Products" />
 <br/>
 <b>🔍 Explore Products</b>
 </td>
 
 <td align="center">
-<img src="./assets/screenshots/mobile/Product details.PNG" width="250" alt="Product Details"/>
+<img src="./assets/screenshots/mobile/Product details.PNG" width="250" alt="Product Details" />
 <br/>
 <b>🛍️ Product Details</b>
 </td>
@@ -333,19 +333,19 @@ Modern mobile commerce experience engineered for intelligent shopping workflows,
 <table align="center">
 <tr>
 <td align="center">
-<img src="./assets/screenshots/mobile/Filter Product.PNG" width="250" alt="Smart Product Filters"/>
+<img src="./assets/screenshots/mobile/Filter Product.PNG" width="250" alt="Smart Product Filters" />
 <br/>
 <b>🎛️ Smart Product Filters</b>
 </td>
 
 <td align="center">
-<img src="./assets/screenshots/mobile/Crat.PNG" width="250" alt="Shopping Cart"/>
+<img src="./assets/screenshots/mobile/Crat.PNG" width="250" alt="Shopping Cart" />
 <br/>
 <b>🛒 Shopping Cart</b>
 </td>
 
 <td align="center">
-<img src="./assets/screenshots/mobile/Checkout1.PNG" width="250" alt="Checkout Experience"/>
+<img src="./assets/screenshots/mobile/Checkout1.PNG" width="250" alt="Checkout Experience" />
 <br/>
 <b>💳 Checkout Experience</b>
 </td>
@@ -357,13 +357,13 @@ Modern mobile commerce experience engineered for intelligent shopping workflows,
 <table align="center">
 <tr>
 <td align="center">
-<img src="./assets/screenshots/mobile/Profile.PNG" width="250" alt="User Profile"/>
+<img src="./assets/screenshots/mobile/Profile.PNG" width="250" alt="User Profile" />
 <br/>
 <b>👤 User Profile</b>
 </td>
 
 <td align="center">
-<img src="./assets/screenshots/mobile/Order History.PNG" width="250" alt="Order History"/>
+<img src="./assets/screenshots/mobile/Order History.PNG" width="250" alt="Order History" />
 <br/>
 <b>📦 Order History</b>
 </td>
